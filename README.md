@@ -6,22 +6,23 @@ Free pixel and retro display fonts from the SignalBeacon micro foundry.
 
 ## Beacon Bitmap
 
-A crisp 5x7 pixel font for games, zines, stream overlays and lo-fi design. Hand-plotted on a grid and built to stay legible at tiny sizes. Now in two styles: Regular and Bold.
+A crisp 5x7 pixel font for games, zines, terminals, and retro UIs. Two styles (Regular + Bold), 84 glyphs, free for personal and commercial use.
 
-- 84 glyphs per style: A-Z, 0-9 and common punctuation (lowercase maps to caps)
-- Installs on Windows, Mac and Linux (standard .ttf)
-- 100% free for personal and commercial use
+**[Try it live](https://moasoh11.github.io/signalbeacon-fonts/)** - interactive type tester with size, weight, and color controls.
+
+## Download
+
+- [beacon-bitmap-v1.1.zip](https://github.com/moasoh11/signalbeacon-fonts/releases/download/v1.1.0/beacon-bitmap-v1.1.zip) - both styles + license (latest release)
+- Individual TTFs in this repo: `BeaconBitmap-Regular.ttf`, `BeaconBitmap-Bold.ttf`
 
 ![Beacon Bitmap specimen](beacon-specimen.png)
 
-### Download
+## License
 
-Grab `BeaconBitmap-Regular.ttf` and `BeaconBitmap-Bold.ttf` from this repo, or both plus the license in the latest release zip, then double-click to install.
+Free for personal and commercial use. Redistribution of the font files themselves is not allowed - share a link instead. See LICENSE.txt.
 
-### License
+## Install
 
-Free for personal and commercial use. You may use this font in games, videos, zines, overlays, logos and printed goods. You may not resell or redistribute the font file itself, modified or unmodified, as a font. See LICENSE.txt.
+Download, unzip, double-click each TTF, and install. Set it at multiples of the base pixel size for crisp results.
 
----
-
-More fonts in the works. Also on [Payhip](https://payhip.com/SignalBeacon) and [Ko-fi](https://ko-fi.com/signalbeacon).
+Made by SignalBeacon. Also on [Payhip](https://payhip.com/b/bivqQ) and [Ko-fi](https://ko-fi.com/signalbeacon).
