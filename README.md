@@ -6,9 +6,9 @@ Free pixel and retro display fonts from the SignalBeacon micro foundry.
 
 ## Beacon Bitmap
 
-A crisp 5x7 pixel font for games, zines, stream overlays and lo-fi design. Hand-plotted on a grid and built to stay legible at tiny sizes.
+A crisp 5x7 pixel font for games, zines, stream overlays and lo-fi design. Hand-plotted on a grid and built to stay legible at tiny sizes. Now in two styles: Regular and Bold.
 
-- 84 glyphs: A-Z, 0-9 and common punctuation (lowercase maps to caps)
+- 84 glyphs per style: A-Z, 0-9 and common punctuation (lowercase maps to caps)
 - Installs on Windows, Mac and Linux (standard .ttf)
 - 100% free for personal and commercial use
 
@@ -16,7 +16,7 @@ A crisp 5x7 pixel font for games, zines, stream overlays and lo-fi design. Hand-
 
 ### Download
 
-Grab `BeaconBitmap-Regular.ttf` from this repo or the latest release, then double-click to install.
+Grab `BeaconBitmap-Regular.ttf` and `BeaconBitmap-Bold.ttf` from this repo, or both plus the license in the latest release zip, then double-click to install.
 
 ### License
 
